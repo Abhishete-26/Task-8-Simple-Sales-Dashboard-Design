@@ -1,0 +1,21 @@
+* Sales Dashboard Insights
+
+1️⃣ West Region Generated the Highest Sales
+
+The West region shows the highest total sales compared to East, Central, and South.
+This indicates strong market performance and customer demand in the West zone.
+
+2️⃣ Sales Peak Observed in Late 2017
+
+Monthly trend shows the highest spike around November–December 2017 (~118K).
+This suggests strong Q4 seasonal performance, likely due to holiday demand.
+
+3️⃣ Technology Category Contributes the Most Revenue
+
+Technology accounts for 36.4% of total sales, making it the top-performing category.
+Furniture (32.3%) and Office Supplies (31.3%) follow closely.
+
+4️⃣ Sales Show Fluctuating Monthly Pattern
+
+Sales trend is not stable — it fluctuates between ~40K and 118K.
+This suggests possible seasonality or promotional cycles affecting performance.
